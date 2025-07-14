@@ -1,0 +1,6 @@
+---
+aliases:
+  - belt
+  - belts
+  - Belts
+---

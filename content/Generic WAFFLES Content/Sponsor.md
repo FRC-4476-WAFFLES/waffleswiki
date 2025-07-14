@@ -1,0 +1,6 @@
+---
+aliases:
+  - sponsor
+  - sponsors
+  - Sponsors
+---

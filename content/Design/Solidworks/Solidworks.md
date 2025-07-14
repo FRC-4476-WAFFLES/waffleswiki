@@ -1,0 +1,1 @@
+Check out [[SolidWorks Intro]] and [[SolidWorks Setup]] to get started

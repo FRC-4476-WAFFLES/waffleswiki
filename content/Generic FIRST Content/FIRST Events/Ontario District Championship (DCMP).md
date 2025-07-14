@@ -1,0 +1,3 @@
+# What is it?
+
+The Ontario District Championship is the culminating event for the [[District System]] for Ontario. Teams qualify for it by earning [[District Points]] and will qualify for the [[World Championship (CMP)]] through this event. Typically the provincial championship has two [[Divisions]] of play, featuring two [[Official Fields]] for teams to compete on. The two winners of each division play head to head to determine the final Provincial champion.

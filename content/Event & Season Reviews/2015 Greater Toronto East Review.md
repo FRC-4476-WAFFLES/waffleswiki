@@ -1,0 +1,68 @@
+# Things I learned:
+- I need a lot more dance practice and more team mates up dancing so no one notices when I mess up :)
+- We do just as much as any other chairman's team ([[Impact Award]])!
+- A good [[Pick List]] really affects an [[Alliance]] as a whole in the [[Eliminations|playoffs]]
+- You never have enough time to fix everything, you have to pick and chose what you want fixed
+- This is a hard game where few robots do more than one thing well.  We need to focus on our strengths and the [[Strategy]] set out at the beginning of the season.
+- With a little more practice time, we can improve significantly.  This is true for other teams and I expect teams which have a second play North Bay will improve as well.
+- This year's game is much harder than i initially thought
+- Putting untested or unproven [[Mechanism]]‎ on the field for the first time usually doesn't work 
+- how a tournament really feels like
+- why [[Scouting]] is important
+- To stay out of the way of others when in the [[Pit]]
+- The flow of the chairman's ([[Impact Award]]) presentation 
+- Always, always go back to your [[Priority List]], no matter how late in the season it is.
+- Having sour keys in the [[Pit]] was much appreciated by a number of the [[Pit Crew]] members...  And a few other people...
+- Once again, no matter how late in the season, make sure that you aren't over complicating things or being overambitious.
+- We are better when we focused on a [[Strategy]] that suited our robot better
+- We are a very young team and there is still much learning to be had
+- Taking a step back and clearing your head can give you a new perspective on a problem that may help solve it
+- Less people in the [[Pit]] leads to more efficient work
+- Having everyone be an expert on a few teams leads to better [[Scouting]]. That way, everyone is an expert on something and can speak at length about it.
+# Things the team did well:
+- Putting our people in the right [[Competition Roles]], while still giving opportunities to try out other roles.
+- Helping other teams
+	- Helping other teams - 4015 and 2013 for example - which is an investment of 'good will' with these teams, is founded in our [[Team Culture]] and often gets back to the [[Judges]].
+	- Our [[Gracious Professionalism]] game was strong; we were friendly, 4015 help stuff, [[Pick List]]‎ guide
+	- with are gratis professionalism (???)
+	- Helping other teams get their robots working when they didn't have something else to do ([[Topping Crew]])
+- [[Strategy]] and [[Scouting]] - I was impressed on the quality of observations and input at the [[Scouting Meeting]] as well as how well the scouting group worked in the [[Stands]].
+	- [[Scout]]s were awesome getting useful data and not missing many [[Match]]es
+	- Deciding what we needed to change on our robot. In the [[Scouting Meeting]], on the spot, we decided to change things based on the results of our performance on the field. This shows flexibility.
+- Great job with chairman's ([[Impact Award]])
+- working together 
+	- We were enthusiastic and kept persevering through our many problems
+	- Worked well together and stayed on track pretty much all throughout the regional
+	- To repair the robot quickly and effectively 
+	- [[Drive Team]] and [[Pit Crew]] were doing great getting our bot changed for [[Match]]es and adapting to different robot abilities
+	- Making sure you didn't crowd the [[Pit]] when you weren't doing anything
+	- [[Drive Team]] communication was solid (Recording audio helped reinforce good communication skills)
+- Staying calm in times of stress 
+	- Staying positive and working, even when the robot was not working as well as we would have liked (and getting it working in the end).
+	- Remaining positive and focused when dealing with tough problems
+- Walked when all the teams ran to the [[Stands]]. Showed [[Gracious Professionalism]].
+# Things we should work on:
+- More enthusiasm/chattiness with [[Judges]] by all. 
+	- Inviting the judges to talk and come into the [[Pit]]
+	- Make the pit more approachable to judges and other teams
+- More networking with other teams at events.  Make sure we connect with our [[Alliance]] partners afterwards to say thanks, etc.
+- Keeping people who need to be in the [[Pit]], in the pit and focused
+- Using the [[Pit Checklists]] so we don't have anymore problems with robot subsystems ([[Mechanism]]) not working
+- Objective assessment of our capabilities to use in our excellent [[Strategy]] and [[Scouting]] processes. 
+	- Look into strategy to help get us a high qual average with a capping robot
+- Recognize individuals for a job well done!  Success in not synonymous with winning.
+- Simplifying our [[Strategy]] and robot
+	- deciding to focus on topping sooner
+	- Being the best capper at NB
+- We should decide what plan we really want from the beginning to have and stay with that one instead of changing it in the middle of the tournament. Now that we know we are cappers we can focus on improving that aspect of our robot.
+- Team Image
+	- Have all team members in team apparel ie shirts...if too cold maybe wear a black long sleeve underneath 
+	- more cheering
+- Listening to others' points and ideas (ie. during the [[Scouting Meeting]]).
+- Keeping the [[Pit]] neat and tidy when working
+	- All members keeping the pit clean and safe at all times as well as speaking to other teams and/or [[Judges]].
+	- To put [[Tools]] back where they belong once we are done using them in the pit 
+- Stronger Pre/Post Match Analysis ([[Match Review]])
+	- Use the expert [[Scout]]s as a first source of information, not second. (eyes are better than numbers)
+	- Record, and rewatch post match video.
+	- Prioritize flow of the game more. Specialize when needed.

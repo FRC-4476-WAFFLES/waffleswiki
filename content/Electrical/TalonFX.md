@@ -1,0 +1,1 @@
+The TalonFX is a integrated [[Motor Controller]] in the [[Falcon 500]] and [[Kraken X60]]. It is maintained by [[CTRE]] and supports [[Phoenix Pro]] features.

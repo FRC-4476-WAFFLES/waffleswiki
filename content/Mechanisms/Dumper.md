@@ -1,0 +1,1 @@
+A simple single pivot action where a platform floor tilts to let something slide out of it

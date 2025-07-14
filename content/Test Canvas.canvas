@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0e59068e1d330a7a","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"fstgnbfghnb"},
+		{"id":"0d631630ce0ddca1","x":-12,"y":195,"width":250,"height":60,"type":"text","text":"dfgdfsghdsafh"},
+		{"id":"c7896f1025105064","x":-600,"y":-30,"width":400,"height":400,"type":"file","file":"Design/Falcon 500.md"}
+	],
+	"edges":[
+		{"id":"5915450f4d42f33c","fromNode":"0e59068e1d330a7a","fromSide":"bottom","toNode":"0d631630ce0ddca1","toSide":"top"},
+		{"id":"a7992313e6c19fe3","fromNode":"c7896f1025105064","fromSide":"top","toNode":"0e59068e1d330a7a","toSide":"top"}
+	]
+}
