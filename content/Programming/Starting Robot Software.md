@@ -1,2 +1,0 @@
-- [Install WPIlib](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html)
-- Log in, or create a [GitHub](https://github.com/) account

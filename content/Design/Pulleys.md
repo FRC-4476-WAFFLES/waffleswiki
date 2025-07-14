@@ -1,6 +1,0 @@
----
-tags:
-  - pulley
-  - pulleys
-  - Pulley
----

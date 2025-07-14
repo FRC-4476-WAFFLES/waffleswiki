@@ -1,6 +1,0 @@
----
-aliases:
-  - Mentors
-  - mentor
-  - mentors
----

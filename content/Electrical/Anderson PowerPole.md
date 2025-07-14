@@ -1,5 +1,0 @@
----
-aliases:
-  - anderson powerpoles
-  - andersons
----

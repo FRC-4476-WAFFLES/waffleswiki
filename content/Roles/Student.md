@@ -1,6 +1,0 @@
----
-aliases:
-  - student
-  - Students
-  - Student
----
