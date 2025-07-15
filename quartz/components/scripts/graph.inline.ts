@@ -1,8 +1,24 @@
 import type { ContentDetails, ContentIndex } from "../../plugins/emitters/contentIndex"
-import * as d3 from "d3"
+import {
+  SimulationNodeDatum,
+  SimulationLinkDatum,
+  Simulation,
+  forceSimulation,
+  forceManyBody,
+  forceCenter,
+  forceLink,
+  forceCollide,
+  forceRadial,
+  select,
+  drag,
+  zoom,
+  zoomIdentity,
+} from "d3"
 import { registerEscapeHandler, removeAllChildren } from "./util"
 import { FullSlug, SimpleSlug, getFullSlug, resolveRelative, simplifySlug } from "../../util/path"
 import { D3Config } from "../Graph"
+import { Text, Graphics, Application, Container, Circle } from "pixi.js"
+import { Group as TweenGroup, Tween as Tweened } from "@tweenjs/tween.js"
 
 type GraphicsInfo = {
   color: string
