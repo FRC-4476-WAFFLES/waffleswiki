@@ -3,7 +3,7 @@ tags:
   - Solidworks
   - CAD
 ---
-To install SolidWorks, follow the instructions provided in [this spreadsheet](https://docs.google.com/spreadsheets/d/1oxMDc_8ey-8n6-IMv3hsV1Gmtkp8uQwDrZWZjhgCUdg/edit?gid=0#gid=0) (4476 members only).
+To install SolidWorks, follow the instructions provided in [this spreadsheet](https://docs.google.com/spreadsheets/d/1oxMDc_8ey-8n6-IMv3hsV1Gmtkp8uQwDrZWZjhgCUdg/edit?gid=0#gid=0) (FRC 4476 members only).
 
 Once SolidWorks is installed, there are a number of settings you must change in order to use it properly with the rest of the team. All mandatory steps must be completed on a computer before it can be used for any collaborative CAD projects on the team.
 
