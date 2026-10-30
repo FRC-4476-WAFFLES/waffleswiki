@@ -22,16 +22,11 @@ Want to see what Quartz can do? Here are some cool community gardens:
 - [Sideny's 3D Artist's Handbook](https://sidney-eliot.github.io/3d-artists-handbook/)
 - [Mike's AI Garden 🤖🪴](https://mwalton.me/)
 - [Brandon Boswell's Garden](https://brandonkboswell.com)
-- [Scaling Synthesis - A hypertext research notebook](https://scalingsynthesis.com/)
-- [Data Dictionary 🧠](https://glossary.airbyte.com/)
-- [sspaeti.com's Second Brain](https://brain.sspaeti.com/)
+- [Data Engineering Vault: A Second Brain Knowledge Network](https://vault.ssp.sh/)
 - [🪴Aster's notebook](https://notes.asterhu.com)
 - [🥷🏻🌳🍃 Computer Science & Thinkering Garden](https://notes.yxy.ninja)
 - [A Pattern Language - Christopher Alexander (Architecture)](https://patternlanguage.cc/)
 - [Gatekeeper Wiki](https://www.gatekeeper.wiki)
 - [Ellie's Notes](https://ellie.wtf)
-- [🥷🏻🌳🍃 Computer Science & Thinkering Garden](https://notes.yxy.ninja)
 - [Eledah's Crystalline](https://blog.eledah.ir/)
 - [🌓 Projects & Privacy - FOSS, tech, law](https://be-far.com)
-
-If you want to see your own on here, submit a [Pull Request adding yourself to this file](https://github.com/jackyzha0/quartz/blob/v4/docs/showcase.md)!
