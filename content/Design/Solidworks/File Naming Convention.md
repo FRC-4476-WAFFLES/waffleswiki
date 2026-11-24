@@ -12,6 +12,7 @@ tags:
 - The <span style="color:yellow">next 3 digits</span> indicate a unique part number (so the first part made for that assembly is 001)
 - The <span style="color:lime">last 2 digits</span> indicate the configuration of a part, since it is the same file but a different physical part (if there is no configuration, it is left as 00)
 - The <span style="color:cyan">Descriptive Name</span> should concisely indicate the purpose of the part. Keep it professional, we send some parts out to sponsors!
+- A new revision of a part gets a letter after the configuration number: -A, then -B, and so on. After -Z comes -AA, then -AB
 # Example: Lexan arm on the Charlie’s cargo intake
 
 Theoretical breakdown:
@@ -26,5 +27,6 @@ Theoretical breakdown:
 - "230-<span style="color:orange">D</span>-<span style="color:yellow">001</span>-00 Cargo Intake Arm" is the drawing of the same part
 - "230-P-001-<span style="color:lime">01</span> Cargo Intake Arm" is the first configuration of the same part
 	- This is not the name of the file - you would have configurations numbered accordingly in your part, then you can refer to the configuration number when you're communicating with someone
+- "230-P-001-00-<span style="color:violet">A</span> Cargo Intake Arm" is the next revision of the arm, then "230-P-001-00-<span style="color:violet">B</span> Cargo Intake Arm"
 
 ![](https://lh6.googleusercontent.com/N9IwBsTdyLTFGuZ5FYNGl9DMnsqTMtU8Q73mQxQfIv4xWtO8Bbs24kfesgESeqiXkzxVDa2RPNo_tixIudjvaIOdxfnwp1HmPba_8La_spKooOUOX-RDyC8ihd19OeNYJz4GuoVd4opjSWCtl1cFjQ)

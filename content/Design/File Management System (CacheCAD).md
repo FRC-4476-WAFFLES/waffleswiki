@@ -11,7 +11,7 @@ To work on the robot after completing the setup steps:
 1. Open CacheCAD, double click on the "202x Robot" project and wait for it to load
 2. If there are files to download, click on "Download Changes" then "Download Changes" again
 3. Repeat Step 2 for the "4476 Parts Library" project
-4. Make and save any changes in SolidWorks, then get the changes approved by a mentor
+4. Make and save any changes in SolidWorks
 5. Open the "202x Robot" project in CacheCAD, there should be a number of files to upload
-6. Click on "Upload Changes", deselect any files that you don't want to upload to the main save copy, then click on "Upload Changes" again
+6. Click on "Upload Changes" and read the list. Only upload files you changed on purpose: SolidWorks re-saves parts and assemblies you only opened, rotated or rebuilt, so they show up here too. Deselect those and anything else that shouldn't go in the main save copy, then click on "Upload Changes" again
 7. Congratulations, you have now contributed to the robot!
