@@ -12,7 +12,7 @@ tags:
 - The <span style="color:yellow">next 3 digits</span> indicate a unique part number (so the first part made for that assembly is 001)
 - The <span style="color:lime">last 2 digits</span> indicate the configuration of a part, since it is the same file but a different physical part (if there is no configuration, it is left as 00)
 - The <span style="color:cyan">Descriptive Name</span> should concisely indicate the purpose of the part. Keep it professional, we send some parts out to sponsors!
-- A new revision of a part gets a letter after the configuration number: -A, then -B, and so on. After -Z comes -AA, then -AB
+- **New for 2027:** a new revision of a part gets a letter after the configuration number: -A, then -B, and so on. After -Z comes -AA, then -AB
 # Example: Lexan arm on the Charlie’s cargo intake
 
 Theoretical breakdown:
